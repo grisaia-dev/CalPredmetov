@@ -10,6 +10,7 @@ int main() {
 }
 
 void print_logo() {
+    // Просто принтит лого
 	std::cout << "                     Develop by                       " << std::endl;
 	std::cout << " ######   ##  ##    ####     ####    #####    ######  \n"
 				 " ##       ### ##   ##  ##   ##  ##   ##  ##   ##		\n"
